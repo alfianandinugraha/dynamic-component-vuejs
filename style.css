@@ -3,10 +3,16 @@
   font-family: 'PT Sans', sans-serif;
 }
 
+body{
+  margin:0px;
+  padding:0px;
+}
+
 #app {
   width: 400px;
   margin: 0 auto;
   font-size: 16px;
+  padding:20px;
 }
 
 #header_content h1 {
